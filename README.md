@@ -102,6 +102,6 @@ TodoList Management function
 # Screen Capture Outputs
 
 1. todo Screen Output
-   ![todo app](/assets/images/output1.JPG)
-2. localStorage Output
-   ![Local Storage](/assets/images/output2.JPG)
+   ![todo app](/assets/images/output1.jpg)
+2. Local Storage Output
+   ![Local Storage](/assets/images/output2.jpg)
